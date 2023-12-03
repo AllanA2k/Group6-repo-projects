@@ -619,11 +619,11 @@ An open-source library created by Microsoft that is used to test browswers and t
 <table>
   <thead>
     <tr>
-      <th >JavaScript |</th>
-      <th >TypeScript | </th>
-      <th >Java | </th>
-      <th >Python | </th>
-      <th >C# | </th>
+      <th >JavaScript </th>
+      <th >TypeScript </th>
+      <th >Java </th>
+      <th >Python </th>
+      <th >C# </th>
     </tr>
   </thead>
 </table>
